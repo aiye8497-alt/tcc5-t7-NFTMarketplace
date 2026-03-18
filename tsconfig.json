@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "relative path/hardhat.config.js"  ],
   "exclude": ["node_modules"]
 }
